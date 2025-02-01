@@ -1,1 +1,1 @@
-console.log("new js create");
+console.log("main js create");
